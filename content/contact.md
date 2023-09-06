@@ -10,6 +10,6 @@ menu: main
 ---
 
 
-コンタクト
+下のフォームはちゃんと動かないのでコンタクトできないよ。
 
-{{< form-contact action="https://tazawa2002.github.io/"  >}}
+{{< form-contact action=""  >}}
