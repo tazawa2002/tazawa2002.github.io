@@ -6,6 +6,7 @@ hasCJKLanguage = true
 copyright = "Code released under the MIT License (MIT)."
 title = 'タザワのブログ'
 theme = 'ananke'
+publishDir = 'docs'
 
 [params]
     text_color = 'dark-gray'
