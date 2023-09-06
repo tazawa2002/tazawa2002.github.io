@@ -1,0 +1,32 @@
+baseURL = 'https://tazawa2002.github.io/'
+languageCode = 'ja'
+langageName = 'Japanese'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
+copyright = "Code released under the MIT License (MIT)."
+title = 'タザワのブログ'
+theme = 'ananke'
+
+[params]
+    text_color = 'dark-gray'
+    background_color_class = 'bg-navy'
+    auther = 'タザワ'
+    email = 'syutotzw@gmail.com'
+    favicon = '/images/profile_mini.png'
+    site_logo = 'images/profile_mini.png'
+
+[[params.ananke_socials]]
+    name = 'twitter'
+    url = 'https://twitter.com/LZ5qFUDUvZeFuHA'
+[[params.ananke_socials]]
+    title = "github"
+    url = "https://github.com/tazawa2002"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = -200
+[[menu.main]]
+    name = "Articles"
+    url = "/post/"
+    weight = -180
