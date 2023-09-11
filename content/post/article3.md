@@ -4,6 +4,7 @@ date: 2023-09-07T14:44:25+09:00
 tags: [自動車学校]
 featured_image: ""
 description: ""
+draft: true
 ---
 
 # 自動車学校に今更入校した経緯
