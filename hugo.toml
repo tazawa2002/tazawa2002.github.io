@@ -17,12 +17,11 @@ publishDir = 'docs'
     site_logo = 'images/profile_mini.png'
 
 [[params.ananke_socials]]
-    name = 'twitter'
+    name = 'Twitter'
     url = 'https://twitter.com/LZ5qFUDUvZeFuHA'
 [[params.ananke_socials]]
-    title = "github"
+    name = "GitHub"
     url = "https://github.com/tazawa2002"
-
 [[menu.main]]
     name = "Home"
     url = "/"
