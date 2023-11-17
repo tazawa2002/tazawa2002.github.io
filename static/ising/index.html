@@ -24,14 +24,14 @@
       <input type="range" name="kt" value=1.0 min=0.01 max=10 step=0.01 id="kt"><br>
       L:<span id="N_value"></span><br>
       <input type="range" name="sqrt(N)" value=500 min=1 max=200 step=1 id="N"><br>
-      <input type="button" name="random" value="ランダム配値" onclick="spin_random();">
+      初期配置:<input type="button" name="random" value="ランダム配値" onclick="spin_random();">
       <input type="button" name="white" value="白配値" onclick="spin_white();">
       <input type="button" name="black" value="黒配値" onclick="spin_black();">
-      <input type="button" name="kougo" value="交互に配値" onclick="spin_kougo();">
-      <input type="button" name="main" value="main" onclick="main();">
-      <input type="button" name="stop" value="stop" onclick="stop();">
-      <input type="button" name="printBoard" value="printBoard" onclick="printBoard();">
-      <input type="button" name="clear" value="クリア" onclick="remove();">
+      <input type="button" name="kougo" value="交互に配値" onclick="spin_kougo();"><br>
+      シミュレーション:<input type="button" name="main" value="スタート" onclick="main();">
+      <input type="button" name="stop" value="ストップ" onclick="stop();">
+      <!-- <input type="button" name="printBoard" value="printBoard" onclick="printBoard();">
+      <input type="button" name="clear" value="クリア" onclick="remove();"> -->
       <!-- <h2>簡単な説明</h2>
       <p>
         イジングモデルは磁石のモデルである. 
