@@ -1,7 +1,7 @@
 ---
-title: "何を書くか考えてないブログ"
+title: "タザワのブログ"
 
-description: "なんとなく自分のブログを作ってみた。"
+description: "くりえいてぃぶな人間になりたい"
 cascade:
   featured_image: '/images/article/haikei.jpeg'
 ---
@@ -9,4 +9,4 @@ cascade:
 # Home
 
 なんとなくブログを作ってみた。
-何を書くかは考えてないのでこのまま何も記事がないかもしれない。
+なんかやる。
