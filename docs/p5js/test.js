@@ -116,7 +116,7 @@ function Circle(pos, d){
 }
 
 function setup() {
-    var myCanvas = createCanvas(windowWidth, windowHeight);
+    var myCanvas = createCanvas(innerWidth, innerHeight);
     myCanvas.class('backgroundsketch');
 }
 
@@ -141,8 +141,8 @@ function draw() {
       // Circle(vector, 3);
     }
   }
-  Circle(pos1, 500/(lx2-lx1));
-  Circle(pos2, 500/(lx2-lx1));
-  Circle(pos3, 500/(lx2-lx1));
-  Circle(pos4, 500/(lx2-lx1));
+  Circle(pos1, height/(lx2-lx1));
+  Circle(pos2, height/(lx2-lx1));
+  Circle(pos3, height/(lx2-lx1));
+  Circle(pos4, height/(lx2-lx1));
 }

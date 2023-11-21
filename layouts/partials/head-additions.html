@@ -1,0 +1,25 @@
+{{- if eq .Params.useMath true }}
+<script>
+MathJax = {
+    loader: {load: ['[tex]/physics']},
+    tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    packages: {'[+]': ['physics']}
+    },
+    chtml: {
+    matchFontHeight: false
+    }
+};
+</script>
+<script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+{{- end }}
+
+{{- if eq .Params.useP5js true }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/addons/p5.sound.min.js"></script>
+{{- end }}
+{{- if eq .Params.useP5jsbg true}}
+<script src="/p5js/bg.js"></script>
+{{- end }}

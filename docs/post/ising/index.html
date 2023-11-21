@@ -40,12 +40,29 @@
 <meta itemprop="name" content="2Dイジングモデルのシミュレーション">
 <meta itemprop="description" content="メトロポリス法を用いたイジングモデルのシミュレーション"><meta itemprop="datePublished" content="2023-11-17T16:37:07+09:00" />
 <meta itemprop="dateModified" content="2023-11-17T16:37:07+09:00" />
-<meta itemprop="wordCount" content="124">
+<meta itemprop="wordCount" content="147">
 <meta itemprop="keywords" content="ising model," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="2Dイジングモデルのシミュレーション"/>
 <meta name="twitter:description" content="メトロポリス法を用いたイジングモデルのシミュレーション"/>
 
 	
+<script>
+MathJax = {
+    loader: {load: ['[tex]/physics']},
+    tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    packages: {'[+]': ['physics']}
+    },
+    chtml: {
+    matchFontHeight: false
+    }
+};
+</script>
+<script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/p5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.2.0/addons/p5.sound.min.js"></script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -61,7 +78,7 @@
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
       
-        <img src="/images/profile_mini.png" class="w100 mw5-ns" alt="タザワのブログ" />
+        <img src="/images/profile.png" class="w100 mw5-ns" alt="タザワのブログ" />
       
     </a>
     <div class="flex-l items-center">
@@ -179,9 +196,14 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links dark-gray pr4-l w-two-thirds-l"><p><!-- raw HTML omitted --></p>
-<h1 id="イジングモデルって何">イジングモデルって何？</h1>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links dark-gray pr4-l w-two-thirds-l"><h1 id="イジングモデルって何">イジングモデルって何？</h1>
 <p>じしゃくのもでるだよ。</p>
+<p><img src="/ising/ising.jpg" alt="イジングモデル"></p>
+<p>はみるとにあんは、
+$$
+\mathcal{H} = -J \sum_{&lt;i,j&gt;} \sigma_{i}\sigma_{j} - mB \sum_{i} \sigma_{i}
+$$
+だよ。</p>
 <h1 id="どうやってシミュレーションするの">どうやってシミュレーションするの？</h1>
 <p>初期配置を選んでスタートボタンを押すとシミュレーションがはじまるよ。</p>
 <p>kT/Jの数値を変えると面白いと思うよ。</p>

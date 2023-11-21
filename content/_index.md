@@ -1,7 +1,7 @@
 ---
 title: "タザワのブログ"
 
-description: "くりえいてぃぶな人間になりたい"
+description: "なんかやる"
 cascade:
   featured_image: '/images/article/haikei.jpeg'
 ---

@@ -12,9 +12,9 @@ publishDir = 'docs'
     text_color = 'dark-gray'
     background_color_class = 'bg-navy'
     auther = 'タザワ'
-    email = 'syutotzw@gmail.com'
+    email = 'syutotzw@icloud.com'
     favicon = '/images/profile_mini.png'
-    site_logo = 'images/profile_mini.png'
+    site_logo = 'images/profile.png'
 
 [[params.ananke_socials]]
     name = 'Twitter'

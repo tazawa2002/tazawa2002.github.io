@@ -14,7 +14,7 @@
       <pubDate>Fri, 17 Nov 2023 16:37:07 +0900</pubDate>
       
       <guid>https://tazawa2002.github.io/post/ising/</guid>
-      <description>イジングモデルって何？ じしゃくのもでるだよ。 どうやってシミュレーションするの？ 初期配置を選んでスタートボタンを押すとシミュレーションがはじま</description>
+      <description>イジングモデルって何？ じしゃくのもでるだよ。 はみるとにあんは、 $$ \mathcal{H} = -J \sum_{&amp;lt;i,j&amp;gt;} \sigma_{i}\sigma_{j} - mB \sum_{i} \sigma_{i} $$ だよ。 どうやってシミュレーションするの？ 初期配置を選んで</description>
     </item>
     
     <item>
