@@ -5,8 +5,15 @@ defaultContentLanguage = 'ja'
 hasCJKLanguage = true
 copyright = "Code released under the MIT License (MIT)."
 title = 'タザワのブログ'
-theme = 'ananke'
+theme = 'mytheme'
 publishDir = 'docs'
+
+[Auther]
+    name = "タザワ"
+    bio = "だいがくせい"
+    avatar = "images/profile.jpg"
+
+
 
 [params]
     text_color = 'dark-gray'
@@ -22,6 +29,7 @@ publishDir = 'docs'
 [[params.ananke_socials]]
     name = "GitHub"
     url = "https://github.com/tazawa2002"
+
 [[menu.main]]
     name = "Home"
     url = "/"
@@ -30,3 +38,7 @@ publishDir = 'docs'
     name = "Articles"
     url = "/post/"
     weight = -180
+[[menu.main]]
+    name = "LaTeX"
+    url = "/latex/"
+    weight = -160
