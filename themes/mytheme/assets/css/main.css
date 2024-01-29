@@ -1,7 +1,12 @@
+html {
+  font-size: 100%;
+}
+
 body {
   color: #222;
-  font-family: sans-serif;
+  font-family: "Yu Gothic Medium", "遊ゴシック Medium", YuGothic, "遊ゴシック体", "ヒラノギ角ゴ Pro W3", sans-serif;
   line-height: 1.5;
+  color: #432;
   margin: 1rem;
   max-width: 768px;
 }
@@ -19,4 +24,12 @@ footer {
 a {
   color: #00e;
   text-decoration: none;
+}
+
+/*
+HEADER
+*/
+.logo {
+  width: 210px;
+  margin-top: 14px;
 }
