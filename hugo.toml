@@ -14,7 +14,7 @@ publishDir = 'docs'
     auther = 'タザワ'
     email = 'syutotzw@icloud.com'
     favicon = '/images/profile_mini.png'
-    site_logo = 'images/profile.png'
+    site_logo = 'images/profile_mini.png'
 
 [[params.ananke_socials]]
     name = 'Twitter'

@@ -19,12 +19,14 @@ var CELL_PX_SIZE = BOARD_PX_SIZE / L; // マスのサイズ
 var CELL_PX_R = CELL_PX_SIZE * 0.45;   // マスの半径
 const CHAR_SIZE = 25; // 文字の大きさ
 
-const BLACK_COLOR = "rgb(50,50,50)";
-const WHITE_COLOR = "rgb(200,200,200)";
+// const BLACK_COLOR = "rgb(50,50,50)";
+// const WHITE_COLOR = "rgb(200,200,200)";
 // const BLACK_COLOR = "rgb(41,37,34)";
 // const WHITE_COLOR = "rgb(79,172,135)";
 // const BLACK_COLOR = "rgb(0,0,0)";
 // const WHITE_COLOR = "rgb(255,255,255)";
+const BLACK_COLOR = "rgb(128,0,0)";
+const WHITE_COLOR = "rgb(0,0,128)";
 //====================================================
 
 // グローバル変数
