@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tazawa/Documents/WebPage/tazawa2002.github.io",
+	"sourceRoot": "/Users/tazawa/tazawa2002.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
