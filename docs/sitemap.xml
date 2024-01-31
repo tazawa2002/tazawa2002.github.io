@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tazawa2002.github.io/tags/latex/</loc>
+    <lastmod>2024-01-29T04:21:26+09:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/latex/</loc>
+    <lastmod>2024-01-29T04:21:26+09:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/tags/</loc>
+    <lastmod>2024-01-29T04:21:26+09:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/</loc>
+    <lastmod>2024-01-29T04:21:26+09:00</lastmod>
+  </url><url>
     <loc>https://tazawa2002.github.io/post/ising/</loc>
     <lastmod>2023-11-17T16:37:07+09:00</lastmod>
   </url><url>
@@ -11,17 +23,38 @@
     <loc>https://tazawa2002.github.io/post/</loc>
     <lastmod>2023-11-17T16:37:07+09:00</lastmod>
   </url><url>
-    <loc>https://tazawa2002.github.io/tags/</loc>
-    <lastmod>2023-11-17T16:37:07+09:00</lastmod>
+    <loc>https://tazawa2002.github.io/tags/p5.js/</loc>
+    <lastmod>2023-11-17T16:07:49+09:00</lastmod>
   </url><url>
-    <loc>https://tazawa2002.github.io/</loc>
-    <lastmod>2023-11-17T16:37:07+09:00</lastmod>
+    <loc>https://tazawa2002.github.io/post/p5js/</loc>
+    <lastmod>2023-11-17T16:07:49+09:00</lastmod>
   </url><url>
     <loc>https://tazawa2002.github.io/tags/blog/</loc>
     <lastmod>2023-09-07T04:21:26+09:00</lastmod>
   </url><url>
     <loc>https://tazawa2002.github.io/post/article1/</loc>
     <lastmod>2023-09-07T04:21:26+09:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/tags/blue/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/tags/green/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/posts/post-3/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/tags/red/</loc>
+    <lastmod>2023-03-15T11:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/posts/post-2/</loc>
+    <lastmod>2023-02-15T10:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/posts/post-1/</loc>
+    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://tazawa2002.github.io/posts/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
     <loc>https://tazawa2002.github.io/about/</loc>
   </url><url>

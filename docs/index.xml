@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Code released under the MIT License (MIT).</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 16:37:07 +0900</lastBuildDate><atom:link href="https://tazawa2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 04:21:26 +0900</lastBuildDate><atom:link href="https://tazawa2002.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaTeX</title>
+      <link>https://tazawa2002.github.io/latex/</link>
+      <pubDate>Mon, 29 Jan 2024 04:21:26 +0900</pubDate>
+      
+      <guid>https://tazawa2002.github.io/latex/</guid>
+      <description>$\bra{a}\ket{b}$</description>
+    </item>
+    
     <item>
       <title>2Dイジングモデルのシミュレーション</title>
       <link>https://tazawa2002.github.io/post/ising/</link>
@@ -18,12 +27,50 @@
     </item>
     
     <item>
+      <title>p5.jsのテスト</title>
+      <link>https://tazawa2002.github.io/post/p5js/</link>
+      <pubDate>Fri, 17 Nov 2023 16:07:49 +0900</pubDate>
+      
+      <guid>https://tazawa2002.github.io/post/p5js/</guid>
+      <description>うごいたわよ！！！！</description>
+    </item>
+    
+    <item>
       <title>ブログ開設</title>
       <link>https://tazawa2002.github.io/post/article1/</link>
       <pubDate>Thu, 07 Sep 2023 04:21:26 +0900</pubDate>
       
       <guid>https://tazawa2002.github.io/post/article1/</guid>
       <description>ブログ開設 ブログを始めました。 いえーい！！</description>
+    </item>
+    
+    <item>
+      <title>Post 3</title>
+      <link>https://tazawa2002.github.io/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/posts/post-3/</guid>
+      <description>Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://tazawa2002.github.io/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/posts/post-2/</guid>
+      <description>Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.
+Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia.</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://tazawa2002.github.io/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/posts/post-1/</guid>
+      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.
+Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea.</description>
     </item>
     
     <item>
@@ -41,7 +88,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tazawa2002.github.io/contact/</guid>
-      <description>下のフォームはちゃんと動かないのでコンタクトできないよ。 あなたの名前 Eメール メールアドレスは必須です 内容</description>
+      <description>下のフォームはちゃんと動かないのでコンタクトできないよ。yahho</description>
     </item>
     
   </channel>

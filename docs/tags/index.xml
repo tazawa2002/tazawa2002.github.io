@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Code released under the MIT License (MIT).</copyright>
-    <lastBuildDate>Fri, 17 Nov 2023 16:37:07 +0900</lastBuildDate><atom:link href="https://tazawa2002.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jan 2024 04:21:26 +0900</lastBuildDate><atom:link href="https://tazawa2002.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>latex</title>
+      <link>https://tazawa2002.github.io/tags/latex/</link>
+      <pubDate>Mon, 29 Jan 2024 04:21:26 +0900</pubDate>
+      
+      <guid>https://tazawa2002.github.io/tags/latex/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ising model</title>
       <link>https://tazawa2002.github.io/tags/ising-model/</link>
@@ -18,11 +27,47 @@
     </item>
     
     <item>
+      <title>p5.js</title>
+      <link>https://tazawa2002.github.io/tags/p5.js/</link>
+      <pubDate>Fri, 17 Nov 2023 16:07:49 +0900</pubDate>
+      
+      <guid>https://tazawa2002.github.io/tags/p5.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blog</title>
       <link>https://tazawa2002.github.io/tags/blog/</link>
       <pubDate>Thu, 07 Sep 2023 04:21:26 +0900</pubDate>
       
       <guid>https://tazawa2002.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blue</title>
+      <link>https://tazawa2002.github.io/tags/blue/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/tags/blue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>green</title>
+      <link>https://tazawa2002.github.io/tags/green/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/tags/green/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>red</title>
+      <link>https://tazawa2002.github.io/tags/red/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      
+      <guid>https://tazawa2002.github.io/tags/red/</guid>
       <description></description>
     </item>
     

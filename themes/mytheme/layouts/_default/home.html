@@ -1,7 +1,12 @@
 {{ define "main" }}
   {{ .Content }}
+  <div class="wrapper grid">
   {{ range site.RegularPages }}
+  <div class="item-box">
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    <h6>Description</h6>
+    {{ .Params.description }}
+  </div>
   {{ end }}
+  </div>
 {{ end }}

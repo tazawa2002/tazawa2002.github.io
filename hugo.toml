@@ -8,6 +8,10 @@ title = 'タザワのブログ'
 theme = 'mytheme'
 publishDir = 'docs'
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-LTLTQKC0D8'
+
 [Auther]
     name = "タザワ"
     bio = "だいがくせい"

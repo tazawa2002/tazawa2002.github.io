@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p5.js on タザワのブログ</title>
+    <link>https://tazawa2002.github.io/tags/p5.js/</link>
+    <description>Recent content in p5.js on タザワのブログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>Code released under the MIT License (MIT).</copyright>
+    <lastBuildDate>Fri, 17 Nov 2023 16:07:49 +0900</lastBuildDate><atom:link href="https://tazawa2002.github.io/tags/p5.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>p5.jsのテスト</title>
+      <link>https://tazawa2002.github.io/post/p5js/</link>
+      <pubDate>Fri, 17 Nov 2023 16:07:49 +0900</pubDate>
+      
+      <guid>https://tazawa2002.github.io/post/p5js/</guid>
+      <description>うごいたわよ！！！！</description>
+    </item>
+    
+  </channel>
+</rss>

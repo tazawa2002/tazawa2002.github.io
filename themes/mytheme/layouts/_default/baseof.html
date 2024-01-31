@@ -5,13 +5,13 @@
   {{ partial "head-additions.html" . }}
 </head>
 <body>
-  <header>
+  <header class="page-header wrapper">
     {{ partial "header.html" . }}
   </header>
-  <main>
+  <main class="wrapper">
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
+  <footer class="page-footer wrapper">
     {{ partial "footer.html" . }}
   </footer>
 </body>
