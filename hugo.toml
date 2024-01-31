@@ -7,7 +7,10 @@ copyright = "Code released under the MIT License (MIT)."
 title = 'タザワのブログ'
 theme = 'ananke'
 publishDir = 'docs'
-googleAnalytics = "G-LTLTQKC0D8"
+
+[services]
+    [services.googleAnalytics]
+        ID = 'G-LTLTQKC0D8'
 
 [params]
     text_color = 'dark-gray'
